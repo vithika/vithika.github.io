@@ -1,3 +1,10 @@
-# Replace pub-XXXXXXXXXXXXXXXX with your actual AdMob publisher ID
-# You can find your publisher ID in AdMob under Settings > Account information
-google.com, pub-6725681068482344, DIRECT, f08c47fec0942fa0
+# ==============================================================================
+# app-ads.txt for PuzzleMint
+# InMobi Authorized Digital Sellers Configuration
+# ==============================================================================
+# Publisher: Vithika Gupta
+# Account ID: 69578783ed6e4d04995c2879f4136819
+# ==============================================================================
+
+# InMobi Direct Seller Entry
+inmobi.com, 69578783ed6e4d04995c2879f4136819, DIRECT, 83e75a7ae333ca9d
